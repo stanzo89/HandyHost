@@ -22,6 +22,4 @@ $HOME/.HandyHost/aktData/bin/akash provider run \
 --minimum-balance 100000 \
 --withdrawal-period 8h0m0s \
 --bid-deposit "5000000uakt" \
---gas=auto \
---gas-prices=0.025uakt \
---gas-adjustment=1.25
+--gas=auto 
