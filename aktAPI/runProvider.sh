@@ -23,4 +23,4 @@ $HOME/.HandyHost/aktData/bin/akash provider run \
 --bid-deposit "5000000uakt" \
 --gas=auto \
 --gas-prices=0.025uakt \
---gas-adjustment=1.5
+--gas-adjustment=1.75
